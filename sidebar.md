@@ -4,12 +4,12 @@
 
 <!-- [ditto:searchbar] -->
 
-##ES6笔记
+##个人笔记
 1. [Markdown语法](#docs/Markdown)
 1. [JS笔记](#docs/js-note)
 1. [秀吧笔记](#docs/xiuba-note)
 1. [字符串的扩展](#docs/es6_string)
-1. [正则的扩展](#docs/es6_regex)
+1. [数组的扩展-数组去重](#docs/array1)
 1. [数值的扩展](#docs/es6_number)
 1. [数组的扩展](#docs/es6_array)
 1. [函数的扩展](#docs/es6_function)
