@@ -1,11 +1,13 @@
-# [_jer]()
+# [个人笔记]()
 
-作者：[_dddd](http://www.isyxf.com)
+作者：[confident](http://confident-me.github.io/)
 
 <!-- [ditto:searchbar] -->
 
 ##ES6笔记
-
+1. [Markdown语法](#docs/Markdown)
+1. [JS笔记](#docs/js-note)
+1. [秀吧笔记](#docs/xiuba-note)
 1. [字符串的扩展](#docs/es6_string)
 1. [正则的扩展](#docs/es6_regex)
 1. [数值的扩展](#docs/es6_number)
