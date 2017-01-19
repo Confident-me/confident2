@@ -86,7 +86,48 @@ function setStyle(name){
 }
 ```
 ##循环
-####for循环
+####`demo1`全选/不选/反选
+```javascript
+//html
+input id="btn1" type="button" value="全选">
+<input id="btn2" type="button" value="不选">
+<input id="btn3" type="button" value="反选">
+<div id="div1">
+    <input type="checkbox" value="选择"><br>
+    <input type="checkbox" value="选择"><br>
+    <input type="checkbox" value="选择"><br>
+    <input type="checkbox" value="选择"><br>
+    <input type="checkbox" value="选择"><br>
+</div>
+
+//javascript
+window.onload = function(){
+    var oBtn1 = document.getElementById('btn1');
+    var oBtn2 = document.getElementById('btn2');
+    var oBtn3 = document.getElementById('btn3');
+    var div1 = document.getElementById('div1');
+    var aCh = div1.getElementsByTagName('input');
+    oBtn1.onclick = function(){
+        for(var i = 0;i<aCh.length;i++){
+            aCh[i].checked = true;
+        }
+    }
+    oBtn2.onclick = function(){
+        for(var i = 0;i<aCh.length;i++){
+            aCh[i].checked = false;
+        }
+    }
+    oBtn3.onclick = function(){
+        for(var i = 0;i<aCh.length;i++){
+            if(aCh[i].checked == false){
+                aCh[i].checked = true;
+            }else{
+                aCh[i].checked = false;
+            }
+        }
+    }
+}
+```
 
 
 
