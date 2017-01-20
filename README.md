@@ -1,9 +1,9 @@
 # 个人笔记
 
 ##jQuery
-1. [实例-鼠标滑过图片放大有遮罩](#docs/hover-note) This is an [example link](https://confident-me.github.io/notes/#docs/hover-note)
-1. [实例-楼层跳转](#docs/floor-jump) This is an [example link](https://confident-me.github.io/notes/#docs/floor-jump)
-1. [实例-选项卡](#docs/tab-control) This is an [example link](https://confident-me.github.io/notes/tab-control)
+1. [实例-楼层跳转](#docs/floor-jump)https://confident-me.github.io/notes/#docs/floor-jump)
+1. [实例-鼠标滑过图片放大有遮罩](#docs/hover-note)(https://confident-me.github.io/notes/#docs/hover-note)
+1. [实例-选项卡](#docs/tab-control)(https://confident-me.github.io/notes/tab-control)
 
 
 ##js库笔记
