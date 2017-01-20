@@ -1,7 +1,7 @@
 ﻿#实例-鼠标滑过图片放大有遮罩
 
 ##事件委托函数示例
-####on方法第一个参数是事件类型（click/mouseenter...），第二个参数是`子元素`，fn
+on方法第一个参数是事件类型（click/mouseenter...），第二个参数是`子元素`，fn
 ```javascript
 $(".ul1").on("mouseenter mouseleave","li",function(e){
 	if(e.type == "mouseenter"){
@@ -13,13 +13,13 @@ $(".ul1").on("mouseenter mouseleave","li",function(e){
 	
 }
 ```
-####通过上面这个例子，说明on函数的第一个参数是可以传多个事件类型的，比如：`mouseenter`,`mouseleave`,鼠标指针穿过元素时，或鼠标指针离开元素时所要执行的函数。
+通过上面这个例子，说明on函数的第一个参数是可以传多个事件类型的，比如：`mouseenter`,`mouseleave`,鼠标指针穿过元素时，或鼠标指针离开元素时所要执行的函数。
 `find()`;是查找当前匹配元素的后代元素。
 ```javscript
 $("#div1").find("span")
 ```
 ##实例：鼠标划过，图片放大，有遮罩效果。
-####``html:``
+`html:`
 ```html
 <!doctype html>
 <html lang="en">
@@ -49,7 +49,7 @@ $("#div1").find("span")
 <script src="js/index.js"></script>
 </html>
 ```
-####`css:`
+`css:`
 ```css
 *{
 	margin: 0;
@@ -87,7 +87,7 @@ $("#div1").find("span")
 	left: 0;
 }
 ```
-####`javascript`
+`javascript`
 ```javascript
 $(function(){
     var imgWid = 0;
