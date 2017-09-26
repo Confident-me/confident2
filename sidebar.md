@@ -4,15 +4,15 @@
 
 <!-- [ditto:searchbar] -->
 
-##jQuery
+##DEMO实例
 1. [实例-鼠标滑过图片放大有遮罩](#docs/hover-note)
 1. [实例-楼层跳转](#docs/floor-jump)
 1. [实例-选项卡](#docs/tab-control)
 1. [实例-提示框](#docs/tooltip)
-
-##js库笔记
 1. [JS笔记](#docs/js-note)
 1. [数组的扩展-数组去重](#docs/array1)
+
+##js库笔记
 
 
 

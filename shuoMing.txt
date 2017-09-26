@@ -1,0 +1,3 @@
+需要安装anywhere启动
+1，先用node安装anywhere    “npm install anywhere -g”
+2，在该目录下输入命令anywhere   “anywhere”
