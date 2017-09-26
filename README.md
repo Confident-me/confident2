@@ -5,10 +5,11 @@
 1. [实例-鼠标滑过图片放大有遮罩](https://confident-me.github.io/notes/#docs/hover-note)
 1. [实例-选项卡](https://confident-me.github.io/notes/tab-control)
 1. [实例-提示框](https://confident-me.github.io/notes/#docs/tooltip)
-
-##js库笔记
 1. [JS笔记](#docs/js-note) 
 1. [数组的扩展-数组去重](#docs/array1)
+
+##js库笔记
+
 
 
 
